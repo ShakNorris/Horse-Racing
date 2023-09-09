@@ -1,0 +1,15 @@
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\SHaKKo\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.AssemblyReference.cache
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\shako\OneDrive\Documents\My Programs\My Programs\My Programs\visual studio repo\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
